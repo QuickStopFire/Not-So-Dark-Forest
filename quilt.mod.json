@@ -3,7 +3,7 @@
     "quilt_loader": {
         "group": "com.modrinth",
         "id": "not-so-dark-forest",
-        "version": "1.0.12",
+        "version": "1.0.15",
         "metadata": {
             "name": "Not So Dark Forest",
             "description": "Makes the grass in the Dark Forest the same color as in the Forest.",
@@ -27,7 +27,10 @@
             },
             {
                 "id": "minecraft",
-                "versions": "=1.19.4"
+                "versions": [
+                    "=1.20",
+                    "=1.20.1"
+                ]
             }
         ]
     }
