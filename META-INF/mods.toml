@@ -1,0 +1,25 @@
+
+modLoader = "lowcodefml"
+loaderVersion = "[44,)"
+license = "Apache-2.0"
+issueTrackerURL="https://github.com/QuickStopFire/Not-So-Dark-Forest/issues"
+showAsResourcePack=false
+
+[[mods]]
+    modId = "not_so_dark_forest"
+    version = "1.0.10"
+    displayName = "Not So Dark Forest"
+    updateJSONURL="https://api.modrinth.com/updates/p1RuZXHR/forge_updates.json"
+    displayURL="https://modrinth.com/datapack/not-so-dark-forest"
+    logoFile="pack.png"
+    authors = "QuickStopFire"
+    description = '''
+    Makes the grass in the Dark Forest the same color as in the Forest.
+    '''
+
+[[dependencies.not_so_dark_forest]]
+    modId = "minecraft"
+    mandatory = true
+    versionRange = "[1.19.3]"
+    ordering = "NONE"
+    side = "BOTH"

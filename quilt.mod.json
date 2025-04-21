@@ -1,0 +1,34 @@
+{
+    "schema_version": 1,
+    "quilt_loader": {
+        "group": "com.modrinth",
+        "id": "not-so-dark-forest",
+        "version": "1.0.10",
+        "metadata": {
+            "name": "Not So Dark Forest",
+            "description": "Makes the grass in the Dark Forest the same color as in the Forest.",
+            "contributors": {
+                "QuickStopFire": "Creator"
+            },
+            "contact": {
+                "homepage": "https://modrinth.com/datapack/not-so-dark-forest",
+                "issues": "https://github.com/QuickStopFire/Not-So-Dark-Forest/issues",
+                "sources": "https://github.com/QuickStopFire/Not-So-Dark-Forest"
+            },
+            "license": "Apache-2.0",
+            "icon": "pack.png"
+        },
+        "intermediate_mappings": "net.fabricmc:intermediary",
+        "depends": [
+            {
+                "id": "quilt_resource_loader",
+                "versions": "*",
+                "unless": "fabric-resource-loader-v0"
+            },
+            {
+                "id": "minecraft",
+                "versions": "=1.19.3"
+            }
+        ]
+    }
+}
