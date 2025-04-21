@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
     "id": "not-so-dark-forest",
-    "version": "1.0.10",
+    "version": "1.0.12",
     "name": "Not So Dark Forest",
     "description": "Makes the grass in the Dark Forest the same color as in the Forest.",
     "authors": [
@@ -17,6 +17,6 @@
     "environment": "*",
     "depends": {
         "fabric-resource-loader-v0": "*",
-        "minecraft": "1.19.3"
+        "minecraft": "1.19.4"
     }
 }
