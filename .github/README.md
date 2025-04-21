@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt=Header src="./src/Pictures/Project page pictures/JPG/Header.jpg"/>
+    <img alt=Header src="https://raw.githubusercontent.com/QuickStopFire/Not-So-Dark-Forest/refs/heads/main/.github/src/Pictures/Project%20page%20pictures/JPG/Header.jpg"/>
 </h1>
 
 ## English (En)
@@ -39,10 +39,10 @@ have any questions, you can write to me using any of the methods [provided][Biol
 
 ## 🌄 Screenshots
 
-![image](./src/Pictures/Project%20page%20pictures/JPG/Comparison_1.jpg)
-![image](./src/Pictures/Project%20page%20pictures/JPG/Comparison_2.jpg)
-![image](./src/Pictures/Project%20page%20pictures/JPG/Comparison_3.jpg)
-![image](./src/Pictures/Project%20page%20pictures/JPG/Comparison_4.jpg)
+![image](https://raw.githubusercontent.com/QuickStopFire/Not-So-Dark-Forest/refs/heads/main/.github/src/Pictures/Project%20page%20pictures/JPG/Comparison_1.jpg)
+![image](https://raw.githubusercontent.com/QuickStopFire/Not-So-Dark-Forest/refs/heads/main/.github/src/Pictures/Project%20page%20pictures/JPG/Comparison_2.jpg)
+![image](https://raw.githubusercontent.com/QuickStopFire/Not-So-Dark-Forest/refs/heads/main/.github/src/Pictures/Project%20page%20pictures/JPG/Comparison_3.jpg)
+![image](https://raw.githubusercontent.com/QuickStopFire/Not-So-Dark-Forest/refs/heads/main/.github/src/Pictures/Project%20page%20pictures/JPG/Comparison_4.jpg)
 
 [//]: Links
 
