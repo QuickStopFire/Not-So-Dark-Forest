@@ -5,7 +5,7 @@
 ## English (En)
 
 This mod/datapack changes the color of the grass in a Dark Forest and
-makes it the same as in a normal Forest.
+makes it the same as in a regular Forest.
 
 ### 📄 Details
 
