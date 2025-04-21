@@ -1,6 +1,57 @@
 {
   "pack": {
-    "pack_format": 15,
-    "description": "More saturated grass in a Dark Forest. By §6QuickStopFire§r."
+    "pack_format": 71,
+    "description": "More saturated grass in a Dark Forest. By §6QuickStopFire§r.",
+    "supported_formats": {
+        "min_inclusive": 18,
+        "max_inclusive": 71
+    }
+  },
+
+  "overlays": {
+    "entries": [
+      {
+        "directory": "overlay_1_20_2",
+        "formats": {
+          "min_inclusive": 18,
+          "max_inclusive": 18
+        }
+      },
+      {
+        "directory": "overlay_1_20_3_to_1_20_4",
+        "formats": {
+          "min_inclusive": 26,
+          "max_inclusive": 26
+        }
+      },
+      {
+        "directory": "overlay_1_20_5_to_1_20_6",
+        "formats": {
+          "min_inclusive": 41,
+          "max_inclusive": 41
+        }
+      },
+      {
+        "directory": "overlay_1_21_to_1_21_1",
+        "formats": {
+          "min_inclusive": 48,
+          "max_inclusive": 48
+        }
+      },
+      {
+        "directory": "overlay_1_21_2_to_1_21_3",
+        "formats": {
+          "min_inclusive": 57,
+          "max_inclusive": 57
+        }
+      },
+      {
+        "directory": "overlay_1_21_4",
+        "formats": {
+          "min_inclusive": 61,
+          "max_inclusive": 61
+        }
+      }
+    ]
   }
 }

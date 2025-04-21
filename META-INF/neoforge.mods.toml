@@ -6,7 +6,7 @@ showAsResourcePack = false
 
 [[mods]]
     modId = "not_so_dark_forest"
-    version = "1.0.15"
+    version = "1.0.71"
     displayName = "Not So Dark Forest"
     updateJSONURL = "https://api.modrinth.com/updates/p1RuZXHR/forge_updates.json?neoforge=only"
     displayURL = "https://modrinth.com/datapack/not-so-dark-forest"
@@ -17,6 +17,6 @@ showAsResourcePack = false
 [[dependencies.not_so_dark_forest]]
     modId = "minecraft"
     mandatory = true
-    versionRange = "[1.20,1.20.1]"
+    versionRange = "[1.20.3,1.21.5]"
     ordering = "NONE"
     side = "BOTH"

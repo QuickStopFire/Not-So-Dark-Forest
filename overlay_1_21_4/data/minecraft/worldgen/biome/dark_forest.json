@@ -6,7 +6,6 @@
   ],
   "downfall": 0.8,
   "effects": {
-    "dry_foliage_color": 8082228,
     "fog_color": 12638463,
     "mood_sound": {
       "block_search_extent": 8,
@@ -89,10 +88,8 @@
       "minecraft:patch_grass_forest",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_leaf_litter",
-      "minecraft:patch_pumpkin",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_firefly_bush_near_water"
+      "minecraft:patch_pumpkin"
     ],
     [
       "minecraft:freeze_top_layer"
